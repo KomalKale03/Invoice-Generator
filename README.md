@@ -10,7 +10,17 @@ After putting all the info about the customers you can download the invoice pdf.
 
 
 
+
+
+
+
 ![Screenshot (152)](https://github.com/KomalKale03/Invoice-Generator/assets/125977082/8af89773-3778-43a6-ba8e-55b640ccc199)
+
+
+
+
+
+
 
 
 
